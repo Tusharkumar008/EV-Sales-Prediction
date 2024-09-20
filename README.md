@@ -17,3 +17,6 @@ Plug-in Hybrid Electric Vehicles (PHEVs): A mix of electric motors and tradition
 Future of EVs
 
 The future looks bright for EVs, with continuous advancements in battery technology, charging infrastructure, and sustainability initiatives. The growing adoption of electric vehicles is set to redefine the automotive landscape in the years to come.
+
+
+![Alt text for image](https://github.com/Tusharkumar008/EV-Sales-Prediction/blob/main/Whitepaper_%20Optimizing%20Power%20Efficiency%20and%20Performance%20for%20Hybrid%20and%20Electric%20Vehicles.jpeg)
