@@ -24,14 +24,14 @@ The future looks bright for EVs, with continuous advancements in battery technol
 Vehicles
 
 The types of vehicles used today can be broadly categorized. Here's a breakdown of the major types:
-![Alt text for image]https://github.com/Tusharkumar008/EV-Sales-Prediction/blob/main/Vehicles.png
+![Alt text for image](https://github.com/Tusharkumar008/EV-Sales-Prediction/blob/main/Vehicles.png)
 
 Trend of the ev over year
 
 The trend of Electric Vehicles (EVs) over the years has been one of rapid growth and technological advancement, driven by global efforts to reduce carbon emissions and transition towards sustainable energy sources. Here’s an overview of how the trend has evolved:
-![Alt text for image]https://github.com/Tusharkumar008/EV-Sales-Prediction/blob/main/Trend%20of%20EV%20over%20the%20years.png 
+![Alt text for image](https://github.com/Tusharkumar008/EV-Sales-Prediction/blob/main/Trend%20of%20EV%20over%20the%20years.png) 
 
 Sales of the EV-Vehicle
 
 Electric Vehicle (EV) sales have seen significant growth over the past decade as the industry pushes toward a cleaner and more sustainable future. Here's an overview of EV sales trends and key statistics:
-![Alt text for image]https://github.com/Tusharkumar008/EV-Sales-Prediction/blob/main/EV%20sales%20of%20each%20vehicles.png 
+![Alt text for image](https://github.com/Tusharkumar008/EV-Sales-Prediction/blob/main/EV%20sales%20of%20each%20vehicles.png) 
